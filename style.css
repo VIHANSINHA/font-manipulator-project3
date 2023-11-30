@@ -1,0 +1,29 @@
+.heading
+{
+    padding: 15px;
+    width:100%;
+    font-size: 19px;
+    font-family: 'Josefin Sans', sans-serif; 
+    margin-top:0%;
+}
+.note{
+    padding: 15px;
+    width:100%;
+    font-size: 19px;
+    box-shadow:5px 5px 5px greenyellow;
+    margin-top:0%;
+}
+.copyright_footer{
+    position:fixed;
+    color:white;
+    bottom:0;
+    width:100%;
+    background-color:grey;
+    line-height: 3;
+    font-family: 'Chakra Petch', sans-serif;
+}
+canvas{
+        border:5px solid white;
+        border-radius:20px;
+        box-shadow:6px 5px 5px goldenrod;
+    }
